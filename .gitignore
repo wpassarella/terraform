@@ -11,6 +11,9 @@ crash.log
 # Provider
 provider.tf
 
+#Key Pair
+key_pair.tf
+
 # Ignore any .tfvars files that are generated automatically for each Terraform run. Most
 # .tfvars files are managed as part of configuration and so should be included in
 # version control.
